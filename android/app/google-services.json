@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377548524163",
+    "project_id": "fec-school-notifications",
+    "storage_bucket": "fec-school-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377548524163:android:a720beff513d59eb41a9b6",
+        "android_client_info": {
+          "package_name": "com.fec.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZTUo5tAP4GI_eQ1Ao-jxZ6Junm3A6R_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
